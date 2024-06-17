@@ -22,7 +22,7 @@ body, html {
 
 .letter img {
     width: 100%;
-    height: 100%;
+    height: auto;
 }
 
 .parchment {
@@ -39,10 +39,10 @@ body, html {
 }
 
 .parchment-content {
-    width: 65%;
-    max-width: 200px;
+    width: 70%; /* Genişliği küçültüldü */
+    max-width: 400px; /* Maksimum genişlik ayarlandı */
     padding: 20px;
-    background: rgba(250, 250, 250, 0.0); /* Şeffaf arka plan */
+    background: rgba(255, 255, 255, 0.0); /* Şeffaf arka plan */
     border: none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     font-size: 1.2em; /* Yazı boyutunu ayarlayabilirsiniz */

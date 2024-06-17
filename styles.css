@@ -46,6 +46,6 @@ body, html {
     background: rgba(255, 255, 255, 0.0); /* Şeffaf arka plan */
     border: none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0);
-    font-size: 2.35em; /* Yazı boyutunu ayarlayabilirsiniz */
+    font-size: 1.35em; /* Yazı boyutunu ayarlayabilirsiniz */
     line-height: 1.4; /* Satır aralığını ayarlayabilirsiniz */
 }

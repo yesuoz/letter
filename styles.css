@@ -39,12 +39,12 @@ body, html {
 }
 
 .parchment-content {
-    width: 90%;
-    max-width: 600px;
+    width: 80%;
+    max-width: 525px;
     padding: 20px;
-    background: rgba(255, 255, 255, 0.0); /* Şeffaf arka plan */
+    background: rgba(242, 242, 242, 0.0); /* Şeffaf arka plan */
     border: none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    font-size: 1.2em; /* Yazı boyutunu ayarlayabilirsiniz */
+    font-size: 0.9em; /* Yazı boyutunu ayarlayabilirsiniz */
     line-height: 1.5; /* Satır aralığını ayarlayabilirsiniz */
 }

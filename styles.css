@@ -41,10 +41,11 @@ body, html {
 .parchment-content {
     width: 70%; /* Genişliği küçültüldü */
     max-width: 400px; /* Maksimum genişlik ayarlandı */
+    height: auto;
     padding: 20px;
     background: rgba(255, 255, 255, 0.0); /* Şeffaf arka plan */
     border: none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0);
     font-size: 1.2em; /* Yazı boyutunu ayarlayabilirsiniz */
-    line-height: 1.5; /* Satır aralığını ayarlayabilirsiniz */
+    line-height: 1.4; /* Satır aralığını ayarlayabilirsiniz */
 }

@@ -41,7 +41,7 @@ body, html {
 .parchment-content {
     width: 70%; /* Genişliği küçültüldü */
     max-width: 400px; /* Maksimum genişlik ayarlandı */
-    height: 100%;
+    height: 95vh;
     padding: 20px;
     background: rgba(255, 255, 255, 0.0); /* Şeffaf arka plan */
     border: none;
